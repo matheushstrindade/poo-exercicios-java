@@ -3,6 +3,7 @@ Resolução de exercícios e listas de exercícios de java para aplicação de c
 Conceitos de Orientação a Objetos abordados:
 - classe
 - objeto
+- associação
 - abstração
 - encapsulamento
 - herança
