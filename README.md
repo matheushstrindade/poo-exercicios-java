@@ -1,4 +1,4 @@
-# poo-lista-java
+# poo-exercicios-java
 Resolução de exercícios e listas de exercícios de java para aplicação de conhecimentos da Programação Orientada a Objetos.
 Conceitos de Orientação a Objetos abordados:
 - classe
